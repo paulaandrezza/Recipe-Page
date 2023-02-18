@@ -12,7 +12,7 @@ Reposítorio de uma página de receita
 <br>
 
 <p align="center">
-  <img alt="Página de receitas" src="./assets/projeto.jpeg" width="100%">
+  <img alt="Página de receitas" src="./assets/img/projeto.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
